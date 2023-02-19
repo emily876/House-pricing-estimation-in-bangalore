@@ -1,4 +1,4 @@
-run app.html 
-execute server.py in pycharm terminal using :- python server.py
-client and server are ready
-predict
+1. run app.html 
+2. execute server.py in pycharm terminal using :- python server.py
+3. client and server are ready
+4. predict
